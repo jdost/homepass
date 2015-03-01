@@ -1,0 +1,6 @@
+WANDEV=eth0
+APDEV=wlan0
+DEFAULT_SSID=attwifi
+STATEDIR=/tmp/homepass
+# This is only optional to use the included `update-macs.sh` script
+MACURL="http://localhost/"
